@@ -66,8 +66,6 @@ PersianWikiRAG/
 ├── LLM/
 │   └── llm.ipynb
 │
-├── requirements.txt
-│
 └── README.md
 ```
 
